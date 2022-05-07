@@ -1,0 +1,19 @@
+{
+  "name": "kmdigitoolz.github.io",
+  "version": "1.0.0",
+  "description": "The official website repository for @kmdigitoolz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdigitoolz/kmdigitoolz.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmdigitoolz/kmdigitoolz.github.io/issues"
+  },
+  "homepage": "https://github.com/kmdigitoolz/kmdigitoolz.github.io#readme"
+}
